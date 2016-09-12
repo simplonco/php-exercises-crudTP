@@ -6,6 +6,7 @@ Pour tous les TP, il faudra respecter ces règles :
 - Avoir un HTML valide
 - Utiliser Netbeans et Xdebug
 - Chaque TP doit avoir son propore VHOST
+- Utiliser des classes serait un plus
 
 
 
