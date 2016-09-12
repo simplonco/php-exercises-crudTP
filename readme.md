@@ -1,11 +1,11 @@
 #PDO - TP
-**Pour tous les TP, il faudra respecter ces règles :
+Pour tous les TP, il faudra respecter ces règles :
 - Respecter le modèle MVC
 - Nommer ses variables, fonctions, bases, tables et champs en anglais  
 - Soigner son CSS
 - Avoir un HTML valide
 - Utiliser Netbeans et Xdebug
-- Chaque TP doit avoir son propore VHOST**
+- Chaque TP doit avoir son propore VHOST
 
 
 
