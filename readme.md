@@ -46,3 +46,4 @@ On doit aussi pourvoir supprimer un utilisateur via un bouton.
 
 Faire une autre page permettant d'ajouter un utilisateur. On doit s'assurer que les données saisies par l'utilisateur sont celle attendues.  
 **Attention au piratage !!**
+**Mettre des commentaire utiles !**
