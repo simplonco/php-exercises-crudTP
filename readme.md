@@ -7,6 +7,7 @@ Pour tous les TP, il faudra respecter ces règles :
 - Utiliser Netbeans et Xdebug
 - Chaque TP doit avoir son propore VHOST
 - Utiliser des classes serait un plus
+- Mettre des commentaires utiles
 
 
 
