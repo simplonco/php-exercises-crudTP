@@ -83,4 +83,4 @@ Créer 4 pages :
 - Liste client : permettant de lister les clients
 - Détail client : permettant d'afficher les infos clients (info perso, crédits)
 
-**Un client peut avoir plusieurs crédits.
+**Un client peut avoir plusieurs crédits.**
