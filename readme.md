@@ -77,7 +77,7 @@ Table **crédit** :
 - Organisme - 50 caractères max
 - Montant - decimal
 
-Créer X pages : 
+Créer 4 pages : 
 - Creation client : permettant de créer un client
 - Ajout credit : permettant d'ajouter un crédit
 - Liste client : permettant de lister les clients
